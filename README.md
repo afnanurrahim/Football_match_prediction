@@ -2,9 +2,11 @@
 * Developed a robust football prediction model leveraging the Kaggle platform and utilizing the Api-Football-Beta API for data collection.
 * Achieved significant improvement in accuracy, with the model achieving an impressive **85.71%** accuracy, a remarkable **40%** enhancement compared to the initial model's accuracy of **61.6%**.
 
-    | Initial Model               | Final model     |
-| ---------------------- | ---------------------- |
-| ![cat](Accuracy images/Final_model.png) | ![dog](Accuracy images/initial_model.png) |
+<p float="left">
+  <img src="https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp" width="33%" />
+  <img src="https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp" width="33%" />
+  <img src="https://bobbyhadz.com/images/blog/aws-cdk-subnet-tags/thumbnail.webp" width="33%" />
+</p>
 
 Key Features:
 
