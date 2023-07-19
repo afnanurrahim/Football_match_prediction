@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="https://github.com/afnanurrahim/Football_match_prediction/blob/main/Accuracy%20images/initial_model.png" width="40%" />
-  <img src="https://github.com/afnanurrahim/Football_match_prediction/blob/main/Accuracy%20images/Final_model.png" width="40%" />
+  <img src="https://github.com/afnanurrahim/Football_match_prediction/blob/main/Accuracy%20images/Final_model_acc.png" width="40%" />
 </p>
 
 Key Features:
