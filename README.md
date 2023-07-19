@@ -4,7 +4,7 @@
 
     | Initial Model               | Final model     |
 | ---------------------- | ---------------------- |
-| ![cat](images/cat.png) | ![dog](images/dog.png) |
+| ![cat](Accuracy images/Final_model.png) | ![dog](Accuracy images/initial_model.png) |
 
 Key Features:
 
