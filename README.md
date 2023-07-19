@@ -2,6 +2,10 @@
 * Developed a robust football prediction model leveraging the Kaggle platform and utilizing the Api-Football-Beta API for data collection.
 * Achieved significant improvement in accuracy, with the model achieving an impressive **85.71%** accuracy, a remarkable **40%** enhancement compared to the initial model's accuracy of **61.6%**.
 
+    | Initial Model               | Final model     |
+| ---------------------- | ---------------------- |
+| ![cat](images/cat.png) | ![dog](images/dog.png) |
+
 Key Features:
 
 * **Data Collection**: Integrated the Api-Football-Beta API to collect an extensive range of football match data, including team statistics, player information, and historical match results. This rich dataset forms the foundation for training and testing the prediction model.
